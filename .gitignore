@@ -1,0 +1,10 @@
+*.pbix
+*.pbit
+*.tmp
+*.bak
+~$*.xlsx
+.DS_Store
+Thumbs.db
+.env
+*.zip
+__pycache__/
