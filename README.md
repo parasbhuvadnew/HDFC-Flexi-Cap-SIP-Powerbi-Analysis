@@ -222,3 +222,37 @@ HDFC-Flexi-Cap-SIP-PowerBI/
 │   └── 09_Key_Takeaways.png
 │
 └── Assets/
+
+---
+
+# 📌 Data Sources & Asset Credits
+
+### Data Sources
+
+Most of the fund-related data used in this project has been collected and prepared using information from the **official HDFC website**.
+
+**Note:** Some data preparation, calculations, structuring, analysis, and documentation were assisted by **ChatGPT**.
+
+### Asset Credits
+
+Icons and visual assets used in the Power BI dashboard were sourced from **Flaticon**.
+
+- **Icons:** Flaticon
+- **Fund-related data:** HDFC official website
+- **Data preparation & analytical assistance:** ChatGPT
+
+> All third-party assets remain the property of their respective owners. Please refer to the applicable licenses and attribution requirements before redistributing or using these assets commercially.
+
+---
+
+# ⚠️ Disclaimer
+
+This project is created for **educational and portfolio demonstration purposes only**.
+
+The SIP calculation is an **illustrative historical model** and does not represent an actual investor account or guaranteed investment return.
+
+Past performance does not guarantee future results.
+
+This dashboard should **not be considered investment advice**.
+
+The data and calculations presented in this project are intended for analytical and educational purposes.
