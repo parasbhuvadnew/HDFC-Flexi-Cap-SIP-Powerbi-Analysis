@@ -98,24 +98,32 @@ Summary of the major insights from the fund and SIP analysis.
 
 ---
 
-# 💰 SIP Analysis
+# 💰 SIP Analysis — ₹2,000 Monthly SIP
 
-The dedicated SIP page answers:
+The dedicated SIP Analysis page evaluates the modeled wealth creation from investing **₹2,000 every month** in HDFC Flexi Cap Fund from **January 1995 to September 2026**.
 
-> If ₹2,000 were invested every month, what was invested, how many units were accumulated, and what is the modeled value?
-
-### Investment Summary
+### Investment & Wealth Creation
 
 | Metric | Value |
 |---|---:|
 | Monthly SIP | ₹2,000 |
 | Investment Period | January 1995 – September 2026 |
-| Total Investment | ₹7.62 Lakh |
+| **Total Amount Invested** | **₹7.62 Lakh** |
 | Total SIP Units | 21.91K |
 | Latest Regular Growth NAV | ₹2,041.965 |
-| SIP Current Value | ₹4.47 Cr |
-| SIP Profit | ₹4.40 Cr |
-| SIP XIRR | 20.19% |
+| **Current Portfolio Value** | **₹4.47 Cr** |
+| **Profit / Wealth Created** | **₹4.40 Cr** |
+| **SIP Return** | **≈ 5,773%** |
+| **SIP XIRR** | **20.19%** |
+
+### 📈 Wealth Creation Summary
+
+- **Total Amount Invested:** ₹7.62 Lakh
+- **Wealth Created / Profit:** ₹4.40 Cr
+- **Current Portfolio Value:** ₹4.47 Cr
+- **SIP XIRR:** 20.19%
+
+In this illustrative historical model, a total investment of **₹7.62 Lakh** through a ₹2,000 monthly SIP results in a modeled portfolio value of approximately **₹4.47 Cr**, representing approximately **₹4.40 Cr of wealth created**.
 
 ### Methodology
 
@@ -126,6 +134,10 @@ Investment ÷ NAV
 **Current Modeled Value**
 
 Total SIP Units × Latest Regular Growth NAV
+
+**SIP Profit**
+
+Current Portfolio Value − Total Amount Invested
 
 **SIP XIRR**
 
