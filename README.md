@@ -28,7 +28,7 @@ The Power BI dashboard contains the following 9 pages:
 
 ## 1. Overview
 
-![Overview](Screenshots/01-overview.png)
+![Overview](Screenshots/overview.png)
 
 High-level overview of HDFC Flexi Cap Fund and its major performance indicators.
 
@@ -36,7 +36,7 @@ High-level overview of HDFC Flexi Cap Fund and its major performance indicators.
 
 ## 2. SIP Analysis — ₹2,000 Monthly SIP
 
-![SIP Analysis](Screenshots/02-sip-analysis.png)
+![SIP Analysis](Screenshots/sip-analysis.png)
 
 Dedicated analysis of the modeled ₹2,000 monthly SIP and its long-term wealth creation.
 
@@ -44,7 +44,7 @@ Dedicated analysis of the modeled ₹2,000 monthly SIP and its long-term wealth 
 
 ## 3. Performance
 
-![Performance](Screenshots/03-performance.png)
+![Performance](Screenshots/performance.png)
 
 Analysis of the fund's long-term performance across different investment periods.
 
@@ -52,7 +52,7 @@ Analysis of the fund's long-term performance across different investment periods
 
 ## 4. Fund Vs Benchmark
 
-![Fund Vs Benchmark](Screenshots/04-fund-vs-benchmark.png)
+![Fund Vs Benchmark](Screenshots/fund-vs-benchmark.png)
 
 Comparison of HDFC Flexi Cap Fund performance against the selected benchmark.
 
@@ -60,7 +60,7 @@ Comparison of HDFC Flexi Cap Fund performance against the selected benchmark.
 
 ## 5. Portfolio & Holdings
 
-![Portfolio & Holdings](Screenshots/05-portfolio-holdings.png)
+![Portfolio & Holdings](Screenshots/portfolio-holdings.png)
 
 Portfolio allocation and major holdings of HDFC Flexi Cap Fund.
 
@@ -68,7 +68,7 @@ Portfolio allocation and major holdings of HDFC Flexi Cap Fund.
 
 ## 6. Risk Analysis
 
-![Risk Analysis](Screenshots/06-risk-analysis.png)
+![Risk Analysis](Screenshots/risk-analysis.png)
 
 Key risk and efficiency metrics of the fund.
 
@@ -76,7 +76,7 @@ Key risk and efficiency metrics of the fund.
 
 ## 7. Fund Manager
 
-![Fund Manager](Screenshots/07-fund-manager.png)
+![Fund Manager](Screenshots/fund-manager.png)
 
 Historical fund manager information and timeline.
 
@@ -84,7 +84,7 @@ Historical fund manager information and timeline.
 
 ## 8. Historical NAV
 
-![Historical NAV](Screenshots/08-historical-nav.png)
+![Historical NAV](Screenshots/historical-nav.png)
 
 Annual historical NAV analysis from 1995 to 2026.
 
@@ -92,7 +92,7 @@ Annual historical NAV analysis from 1995 to 2026.
 
 ## 9. Key Takeaways
 
-![Key Takeaways](Screenshots/09-key-takeaways.png)
+![Key Takeaways](Screenshots/key-takeaways.png)
 
 Summary of the major insights from the fund and SIP analysis.
 
