@@ -1,5 +1,4 @@
-# HDFC Flexi Cap Fund — ₹2,000 Monthly SIP Power BI Dashboard
-
+# 🔴 HDFC Flexi Cap Fund — 🔵 ₹2,000 Monthly SIP Power BI Dashboard
 Financial Analytics / Investment Analytics portfolio project built in Microsoft Power BI.
 
 ## Project
