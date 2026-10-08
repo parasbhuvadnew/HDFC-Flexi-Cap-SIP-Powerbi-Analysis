@@ -28,122 +28,73 @@ The Power BI dashboard contains the following 9 pages:
 
 ## 1. Overview
 
-![Overview](Screenshots/01_Overview.png)
+![Overview](Screenshots/01-overview.png)
 
-The Overview page provides a high-level view of HDFC Flexi Cap Fund and its major performance indicators.
+High-level overview of HDFC Flexi Cap Fund and its major performance indicators.
 
 ---
 
 ## 2. SIP Analysis — ₹2,000 Monthly SIP
 
-![SIP Analysis](Screenshots/02_SIP_Analysis.png)
+![SIP Analysis](Screenshots/02-sip-analysis.png)
 
-The dedicated SIP Analysis page evaluates the modeled wealth creation from a ₹2,000 monthly SIP.
-
-### SIP Summary
-
-| Metric | Value |
-|---|---:|
-| Monthly SIP | ₹2,000 |
-| Total Investment | ₹7.62 Lakh |
-| Total SIP Units | 21.91K |
-| Latest Regular Growth NAV | ₹2,041.965 |
-| SIP Current Value | ₹4.47 Cr |
-| SIP Profit | ₹4.40 Cr |
-| SIP XIRR | 20.19% |
-
-The SIP calculation is an analytical illustration and does not represent an actual investor account statement.
+Dedicated analysis of the modeled ₹2,000 monthly SIP and its long-term wealth creation.
 
 ---
 
 ## 3. Performance
 
-![Performance](Screenshots/03_Performance.png)
+![Performance](Screenshots/03-performance.png)
 
-The Performance page presents NAV-based long-term performance measures.
-
-- 1Y Return: **-1.45%**
-- 3Y CAGR: **13.31%**
-- 5Y CAGR: **16.26%**
-- 10Y CAGR: **15.48%**
-- Since Inception CAGR: **20.16%**
+Analysis of the fund's long-term performance across different investment periods.
 
 ---
 
 ## 4. Fund Vs Benchmark
 
-![Fund Vs Benchmark](Screenshots/04_Fund_Vs_Benchmark.png)
+![Fund Vs Benchmark](Screenshots/04-fund-vs-benchmark.png)
 
-The Fund Vs Benchmark page compares the fund's performance against the selected benchmark.
+Comparison of HDFC Flexi Cap Fund performance against the selected benchmark.
 
 ---
 
 ## 5. Portfolio & Holdings
 
-![Portfolio & Holdings](Screenshots/05_Portfolio_Holdings.png)
+![Portfolio & Holdings](Screenshots/05-portfolio-holdings.png)
 
-The Portfolio & Holdings page presents portfolio allocation and the fund's major holdings.
-
-### Top 10 Holdings — 31 Aug 2026
-
-| Rank | Holding | Allocation |
-|---|---|---:|
-| 1 | ICICI Bank Ltd. | 9.19% |
-| 2 | Axis Bank Ltd. | 6.19% |
-| 3 | HDFC Bank Ltd. | 5.71% |
-| 4 | State Bank of India | 4.16% |
-| 5 | Eternal Limited | 3.39% |
-| 6 | Kotak Mahindra Bank Limited | 3.27% |
-| 7 | SBI Life Insurance Company Ltd. | 3.19% |
-| 8 | Larsen & Toubro Ltd. | 3.16% |
-| 9 | InterGlobe Aviation Ltd. | 2.98% |
-| 10 | Maruti Suzuki India Limited | 2.74% |
+Portfolio allocation and major holdings of HDFC Flexi Cap Fund.
 
 ---
 
 ## 6. Risk Analysis
 
-![Risk Analysis](Screenshots/06_Risk_Analysis.png)
+![Risk Analysis](Screenshots/06-risk-analysis.png)
 
-The Risk Analysis page presents key risk and efficiency metrics.
-
-| Metric | Value |
-|---|---:|
-| Beta | 0.79 |
-| Standard Deviation | 12.90 |
-| Sharpe Ratio | 0.82 |
-| Regular Expense Ratio | 1.27% |
+Key risk and efficiency metrics of the fund.
 
 ---
 
 ## 7. Fund Manager
 
-![Fund Manager](Screenshots/07_Fund_Manager.png)
+![Fund Manager](Screenshots/07-fund-manager.png)
 
-The Fund Manager page presents the historical fund manager timeline.
-
-| Fund Manager | From | To |
-|---|---|---|
-| Amit Ganatra | 01-Feb-2026 | Present |
-| Chirag Setalvad | 08-Dec-2025 | 31-Jan-2026 |
-| Roshi Jain | 29-Jul-2022 | 07-Dec-2025 |
-| Prashant Jain | 20-Jun-2003 | 28-Jul-2022 |
+Historical fund manager information and timeline.
 
 ---
 
 ## 8. Historical NAV
 
-![Historical NAV](Screenshots/08_Historical_NAV.png)
+![Historical NAV](Screenshots/08-historical-nav.png)
 
-The Historical NAV page presents the annual historical NAV of HDFC Flexi Cap Fund from **1995 to 2026**.
+Annual historical NAV analysis from 1995 to 2026.
 
 ---
 
 ## 9. Key Takeaways
 
-![Key Takeaways](Screenshots/09_Key_Takeaways.png)
+![Key Takeaways](Screenshots/09-key-takeaways.png)
 
-The Key Takeaways page summarizes the major insights from the fund, SIP, performance, portfolio, and risk analysis.
+Summary of the major insights from the fund and SIP analysis.
 
 ---
 
