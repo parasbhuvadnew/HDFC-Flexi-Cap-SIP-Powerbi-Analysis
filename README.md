@@ -214,7 +214,7 @@ HDFC-Flexi-Cap-SIP-PowerBI/
 │   ├── 01_Overview.png
 │   ├── 02_SIP_Analysis.png
 │   ├── 03_Performance.png
-│   ├── 04_Fund_Vs_Benchmark.png
+│   ├── 04_year-wise-returns.png
 │   ├── 05_Portfolio_Holdings.png
 │   ├── 06_Risk_Analysis.png
 │   ├── 07_Fund_Manager.png
