@@ -14,7 +14,7 @@ The Power BI dashboard contains the following 9 pages:
 1. **Overview**
 2. **SIP Analysis — ₹2,000 Monthly SIP**
 3. **Performance**
-4. **Fund Vs Benchmark**
+4. **Year-wise returns (%)**
 5. **Portfolio & Holdings**
 6. **Risk Analysis**
 7. **Fund Manager**
@@ -49,9 +49,9 @@ Analysis of the fund's long-term performance across different investment periods
 
 ---
 
-## 4. Fund Vs Benchmark
+## 4. Year-wise returns (%)
 
-![Fund Vs Benchmark](Screenshots/fund-vs-benchmark.png)
+![Fund Vs Benchmark](Screenshots/year-wise-returns.png)
 
 Comparison of HDFC Flexi Cap Fund performance against the selected benchmark.
 
